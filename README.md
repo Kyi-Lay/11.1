@@ -1,4 +1,4 @@
-# လုပ်ဆောင်ရန် 
+# To Do
 * npm init -y
 * npm i express
 
@@ -11,7 +11,7 @@
 
 
 
-## သင်ခန်းစာများ 
+# Practice
 ## Step:1
 ***Node*** node install 
 run == node app.js ('hello)
